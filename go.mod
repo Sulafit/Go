@@ -1,3 +1,3 @@
-module github.com/Sulafit/Golang
+module c.go
 
 go 1.19
