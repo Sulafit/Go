@@ -1,2 +1,0 @@
-# Golang
-Golang app development
