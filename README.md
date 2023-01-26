@@ -1,2 +1,2 @@
-# Golang
+# Go
 Golang app development
